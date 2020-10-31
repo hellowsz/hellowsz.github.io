@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5770bf83-c119-4d7b-970e-2d39ffeeb6a7" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/img/avatar-panda-ny.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-31-firstblog.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-31-firstblog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-10-31-web-browser.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-31-web-browser.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,7 @@
       <workItem from="1604075140336" duration="371000" />
       <workItem from="1604075543922" duration="1987000" />
       <workItem from="1604121012960" duration="2770000" />
-      <workItem from="1604154679306" duration="1570000" />
+      <workItem from="1604154679306" duration="2606000" />
     </task>
     <servers />
   </component>
