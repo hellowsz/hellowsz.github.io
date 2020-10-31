@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5770bf83-c119-4d7b-970e-2d39ffeeb6a7" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/about/en.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/about/en.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/about/zh.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/about/zh.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-01-29-hello-2015.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-08-16-miui6.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-09-04-is-pure-android-better.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-10-01-why-alibaba-ux-sucks.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-11-20-responsive-web-design.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-12-13-wechat-block-kuaidi.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-03-10-apple-event-2015.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-03-25-digital-native.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-03-31-e2e_user_scenarios.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-04-14-unix-linux-note.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-04-15-os-metro.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-05-11-see-u-ali.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-05-25-js-module-loader.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-06-15-alitrip-strategy.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-07-09-js-module-7day.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-09-22-js-version.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-10-28-how-designer-learn-fe.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-12-15-ios9-safari-web.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-12-28-css-sucks-2015.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-02-01-React-vs-Angular2.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-06-05-pwa-in-my-pov.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-09-22-the-open-web.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-10-20-pwa-qcon2016.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-11-20-sw-101-gdgdf.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-09-wechat-miniapp-ux.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-02-09-nextgen-web-pwa.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-04-06-html-document.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-05-28-sw-precache.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-07-12-upgrading-eleme-to-pwa.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-07-26-farewell-flash.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-10-06-css-complaints.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-12-halting-problem.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-12-uncomputable-funcs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-06-30-dreamer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-27-avoiding-success-at-all-cost.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/cs_idols/2019-09-13-peter-john-landin.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/data_rep/2020-06-19-data-rep-int.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/data_rep/2020-06-21-data-rep-float.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/data_rep/2020-06-21-data-rep-todo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/hidden/2020-05-05-pl-chart.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_lf/2019-01-01-sf-lf-01-basics.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_lf/2019-01-02-sf-lf-02-induction.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_lf/2019-01-03-sf-lf-03-list.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_lf/2019-01-04-sf-lf-04-poly.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_lf/2019-01-05-sf-lf-05-tactics.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_lf/2019-01-06-sf-lf-06-logic.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_lf/2019-01-07-sf-lf-07-indprop.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_lf/2019-01-08-sf-lf-08-map.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_lf/2019-01-09-sf-lf-09-proof-object.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_lf/2019-01-10-sf-lf-10-ind-principle.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_lf/2019-01-11-sf-lf-11-rel.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_lf/2019-01-12-sf-lf-12-imp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_lf/2019-01-13-sf-lf-13-imp-parser.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_lf/2019-01-14-sf-lf-14-imp-ceval.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_lf/2019-01-15-sf-lf-15-extraction.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_lf/2019-01-16-sf-lf-16-auto.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_plf/2019-03-01-sf-plf-01-equiv.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_plf/2019-03-02-sf-plf-02-hoare-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_plf/2019-03-03-sf-plf-03-hoare-2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_plf/2019-03-04-sf-plf-04-hoare-logic.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_plf/2019-03-05-sf-plf-05-smallstep.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_plf/2019-03-06-sf-plf-06-types.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_plf/2019-03-07-sf-plf-07-STLC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_plf/2019-03-08-sf-plf-08-STLC-prop.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_plf/2019-03-09-sf-plf-09-more-STLC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_plf/2019-03-10-sf-plf-10-subtyping.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_plf/2019-03-11-sf-plf-11-typechecking.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_plf/2019-03-12-sf-plf-12-records.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_plf/2019-03-13-sf-plf-13-references.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_plf/2019-03-14-sf-plf-14-record-sub.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_plf/2019-03-15-sf-plf-15-norm-STLC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_plf/2019-03-16-sf-plf-16-lib-tactics.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_plf/2019-03-17-sf-plf-17-use-tactics.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_plf/2019-03-18-sf-plf-18-use-auto.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_plf/2019-03-19-sf-plf-19-partial-eval.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/read_sf_qc/2019-09-02-sf-qc-02-typeclasses.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jbZEZUOr8xMvp71GnUqm9SwFQi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5770bf83-c119-4d7b-970e-2d39ffeeb6a7" name="默认的" comment="" />
+      <created>1604074641720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604074641720</updated>
+      <workItem from="1604074643037" duration="480000" />
+      <workItem from="1604075140336" duration="371000" />
+      <workItem from="1604075543922" duration="1987000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1604075012928">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604075012928" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1604075012928">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604075012928" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1604075012928">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604075012928" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1604075012928">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604075012928" />
+  </component>
+</project>
