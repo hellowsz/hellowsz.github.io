@@ -4,7 +4,7 @@ SEOTitle: wsz的博客 | wsz Blog
 header-img: img/home-bg.jpg
 email: 653040200@qq.com
 description: "这真的很酷"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+keyword: "wsz，博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 url: "hellowsz.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+weibo_username:     5334203391
+zhihu_username:
+github_username:    hellowsz
+# twitter_username:
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -75,7 +75,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "love and food<br>爱 和 美食"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-panda-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
