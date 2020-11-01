@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5770bf83-c119-4d7b-970e-2d39ffeeb6a7" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-31-web-browser.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-31-web-browser.md" afterDir="false" />
-    </list>
+    <list default="true" id="5770bf83-c119-4d7b-970e-2d39ffeeb6a7" name="默认的" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +18,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/untitled" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -43,6 +40,7 @@
       <workItem from="1604075543922" duration="1987000" />
       <workItem from="1604121012960" duration="2770000" />
       <workItem from="1604154679306" duration="2606000" />
+      <workItem from="1604205347618" duration="64000" />
     </task>
     <servers />
   </component>
@@ -50,6 +48,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604205409295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604205409295" />
     <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1604075012928">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
